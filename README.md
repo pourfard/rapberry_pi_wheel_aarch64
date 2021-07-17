@@ -1,4 +1,4 @@
-# rapberry_pi_wheel_aarch64
+# raspberry_pi_wheel_aarch64
 
 dlib
 mxnet
